@@ -14,13 +14,13 @@ const SigninSignup = () => {
                 class="flex cursor-pointer items-center gap-2 text-indigo-500 no-underline hover:text-indigo-500"
               >
                 <span class="flex-shrink-0 text-3xl font-black lowercase tracking-tight opacity-100">
-                  Futurism.
+                  VibeMarket.
                 </span>
               </a>
             </div>
             {/* <!-- /Logo --> */}
             <h4 class="mb-2 font-medium text-gray-700 xl:text-xl">
-              Welcome to futurism!
+              Welcome to VibeMarket!
             </h4>
             <p class="mb-6 text-gray-500">
               Please sign-in to access your account
@@ -51,12 +51,6 @@ const SigninSignup = () => {
                   >
                     Password
                   </label>
-                  <a
-                    href="auth-forgot-password-basic.html"
-                    class="cursor-pointer text-indigo-500 no-underline hover:text-indigo-500"
-                  >
-                    <small class=" ">Forgot Password?</small>
-                  </a>
                 </div>
                 <div class="relative flex w-full flex-wrap items-stretch">
                   <input
